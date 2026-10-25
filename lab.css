@@ -1,103 +1,102 @@
 body {
-  background-color: #d9ebe8;
-  font-family: "Century Gothic", Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
+    background-color: #d9ebe8;
+    font-family: "Century Gothic", Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
 }
 
 #wrapper {
-  width: 800px;
-  margin: 0 auto;
-  padding: 10px;
-  background-color: #ffffff;
-  overflow: hidden;           
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #ffffff;
+    overflow: hidden;
 }
 
 
 #header {
-  background-color: #a6eeea;
-  text-align: right;
-  padding: 10px 15px;
-  margin-bottom: 10px;
+    background-color: #a6eeea;
+    text-align: right;
+    padding: 10px 15px;
+    margin-bottom: 10px;
 }
 
-#header h1 {
-  margin: 0;
-  font-weight: normal;
-  font-size: 32px;
-  color: #1a8f8f;
-}
+    #header h1 {
+        margin: 0;
+        font-weight: normal;
+        font-size: 32px;
+        color: #1a8f8f;
+    }
 
 #tagline {
-  margin: 0;
-  font-size: 14px;
-  color: #4aa;
+    margin: 0;
+    font-size: 14px;
+    color: #4aa;
 }
 
 
 #sidebar {
-  float: left;
-  width: 150px;
-  border: 5px solid #0a8f8a;
-  background-color: #40e0d0;
-  padding: 10px;
-  margin: 0 10px 10px 0;
+    float: left;
+    width: 150px;
+    border: 5px solid #0a8f8a;
+    background-color: #40e0d0;
+    padding: 10px;
+    margin: 0 10px 10px 0;
 }
 
-#sidebar h2 {
-  margin: 0 0 10px 0;
-  font-size: 24px;
-  font-weight: normal;
-  color: #1a8f8f;
-}
+    #sidebar h2 {
+        margin: 0 0 10px 0;
+        font-size: 24px;
+        font-weight: normal;
+        color: #1a8f8f;
+    }
 
-#sidebar ul {
-  font-size: 12px;
-  padding-left: 20px;
-  margin: 0;
-}
+    #sidebar ul {
+        font-size: 12px;
+        padding-left: 20px;
+        margin: 0;
+    }
 
 .highlight {
-  font-weight: bold;
-  color: #ffffff;
+    font-weight: bold;
+    color: #ffffff;
 }
 
 
 #entries {
-  float: right;
-  width: 600px;
+    float: right;
+    width: 600px;
 }
 
 .entry {
-  border: 3px solid #a6dede;
-  background-color: #e6faf8;
-  padding: 10px;
-  margin-bottom: 15px;
-  overflow: hidden;
+    border: 3px solid #a6dede;
+    background-color: #e6faf8;
+    padding: 10px;
+    margin-bottom: 15px;
+    overflow: hidden;
 }
 
-.entry h2 {
-  margin: 0 0 8px 0;
-  font-size: 22px;
-  font-weight: normal;
-  color: #1a8f8f;
-}
+    .entry h2 {
+        margin: 0 0 8px 0;
+        font-size: 22px;
+        font-weight: normal;
+        color: #1a8f8f;
+    }
 
 .date {
-  font-weight: bold;
-  border-bottom: 2px dashed #3333cc;
+    font-weight: bold;
+    border-bottom: 2px dashed #3333cc;
 }
 
 .entry p {
-  margin: 0;
-  font-size: 14px;
-  color: #b06a9a;
-  text-align: justify;
+    margin: 0;
+    font-size: 14px;
+    color: #b06a9a;
+    text-align: justify;
 }
 
 .entry-img {
-  float: right;
-  width: 160px;
-  margin: 0 0 10px 10px;
+    float: right;
+    width: 160px;
+    margin: 0 0 10px 10px;
 }
-Displaying lab.css.
